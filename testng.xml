@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SeleniumSuite">
+
+    <test name="UnsplashImageDownloaderTests">
+        <classes>
+            <class name="UnsplashImageDownloaderTest"/>
+            <!-- Можете добавить еще классы тестов, если есть -->
+        </classes>
+    </test>
+
+</suite>
